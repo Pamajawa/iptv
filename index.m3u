@@ -52,8 +52,9 @@ http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=148474&extens
 #EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bran/unsafe/2880x996/image/64ee0ac9adb4f/uploads/media/Cover_LT_C+Foot.jpg" group-title="[FR] Canal+ Foot",[FR] Canal+ Foot FHD
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256629&extension=ts
 
-#EXTINF:-1 tvg-logo="" group-title="[FR] Canal+ Sport",[FR] Canal+ Sport FHD
+#EXTINF:-1 tvg-logo="https://static.wikitide.net/avidwiki/thumb/5/58/Canal%2B_Sport_-_Breakfiller_%282020%29.png/529px-Canal%2B_Sport_-_Breakfiller_%282020%29.png" group-title="[FR] Canal+ Sport",[FR] Canal+ Sport FHD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=250679&extension=ts
+
 
 
 
